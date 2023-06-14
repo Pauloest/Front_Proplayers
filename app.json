@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Pro Players CSGO",
+    "icon": "./src/assets/icon.png",
+    "version": "1.0.0",
+    "slug": "pro_players_CSGO",
+    "ios": {
+      "bundleIdentifier": "com.playersCSGO",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.pro_playersCSGO",
+      "versionCode": 1
+    }
+  }
+}
