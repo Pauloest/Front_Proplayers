@@ -5,7 +5,7 @@ Trabalho destinado a aplicação mobile da disciplina de Programação de dispos
 
 1- Vá até a pasta raíz do repositório:  
 
-$ cd pro_players_CSGO  
+$ cd Front_Proplayers  
 
 2- Instale as dependências: 
 
