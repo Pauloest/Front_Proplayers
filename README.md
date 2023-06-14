@@ -1,7 +1,7 @@
 # App ProPlayers_CSGO
 Trabalho destinado a aplicação mobile da disciplina de Programação de dispositivos móveis no semestre de 2023.1, na qual consiste num primeiro momento a parte FRONT-END da aplicação com um feed e a possibilidade de buscas.  Para você poder instalar e executar esta aplicação, terá que ter instalado em sua máquina o Git e o Node.js. Em seguida, no terminal execute os seguintes comandos segundo as instruções:  Para executar a aplicação mobile, você deve utilizar um aparelho celular, Android ou IOS, e instalar o aplicativo Expo disponível na Google Play e App Store. Este aplicativo permite que você visualize a API em seu próprio celular. 
 
-# Frontend (Mobile) 
+# Frontend (Mobile) (Executar após iniciar o BACK-END) 
 
 1- Vá até a pasta raíz do repositório:  
 
